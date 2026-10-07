@@ -1,9 +1,7 @@
-import React from "react";
-
 const App = () => {
   return (
-    <div className="flex bg-blue-500 p-4 text-white">
-      App
+    <div className="font-primary bg-bg text-primary shadow-accent flex border border-black p-4 shadow-2xl">
+      AppwwwWWWWW
       <div></div>
     </div>
   );
