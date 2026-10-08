@@ -1,10 +1,8 @@
 @import "tailwindcss";
 
 @theme {
-    --font-primary: "raleway";
-    --color-bg: #f5f8ff;
-    --color-primary: #252432;
-    --color-secondary: #5B54FF;
-    --color-accent: #737373;
+    --font-heading: "raleway";
+    --font-inter: "inter";
+    --color-primary: #4E47FF;
 }
 
