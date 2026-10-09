@@ -1,5 +1,5 @@
-const Section = () => {
-  return <section className="w-full py-12"></section>;
+const Section = ({ children }) => {
+  return <section className="w-full py-12 relative">{children}</section>;
 };
 
 export default Section;

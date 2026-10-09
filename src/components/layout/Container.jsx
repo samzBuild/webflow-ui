@@ -1,5 +1,5 @@
-const Container = () => {
-  return <div className="m-auto w-full max-w-7xl px-4"></div>;
+const Container = ({ children }) => {
+  return <div className=" w-full max-w-7xl px-4 mx-auto">{children}</div>;
 };
 
 export default Container;

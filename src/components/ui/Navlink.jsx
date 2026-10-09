@@ -18,7 +18,7 @@ const Navlink = () => {
     },
   ];
   return (
-    <ul className="flex gap-12 px-10 text-lg text-neutral-500 border-2 border-white bg-neutral-50 py-2 rounded-lg ">
+    <ul className="flex gap-12 rounded-lg border-2 border-white bg-neutral-50 px-10 py-2 text-lg text-neutral-500">
       {navs.map((nav) => {
         return (
           <li>
